@@ -47,7 +47,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
 http://183.185.66.81:6066/rtp/226.0.2.103:8736
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典
-http://106.53.99.30/tv/hot.php?id=cwjd
+http://8.138.7.223/api/00yd.php?id=55&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育1.png" group-title="中国教育",中国教育1
 http://8.138.7.223/api/00migu.php?id=89&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
