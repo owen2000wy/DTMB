@@ -1,29 +1,28 @@
 #EXTM3U
-
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV1.png" group-title="央视",CCTV1
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV1备用" tvg-name="CCTV1备用" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV1.png" group-title="央视",CCTV1备用
-http://8.138.7.223/api/00migu.php?id=1&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://110.42.63.57:158/live/miguHD.php?id=CCTV1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV2.png" group-title="央视",CCTV2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fe8M_1QCWSd35gkY-Q1BSH%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192539%2C%2C%2C20240420192539%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV3.png" group-title="央视",CCTV3
-http://8.138.7.223/api/00migu.php?id=3&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cctv3
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4.png" group-title="央视",CCTV4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-http://8.138.7.223/api/00migu.php?id=18&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cctv4o
 #EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4美洲.png" group-title="央视",CCTV4美洲
-http://8.138.7.223/api/00migu.php?id=19&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cctv4a
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV5.png" group-title="央视",CCTV5
-http://8.138.7.223/api/00migu.php?id=5&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cctv5
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV5+.png" group-title="央视",CCTV5+
-http://8.138.7.223/api/00migu.php?id=6&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV6.png" group-title="央视",CCTV6
-http://8.138.7.223/api/00migu.php?id=7&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cctv6 
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV7.png" group-title="央视",CCTV7
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fc_MEUOVd0CBbc2BFzAJH_%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192548%2C%2C%2C20240420192548%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8.png" group-title="央视",CCTV8
-http://8.138.7.223/api/00migu.php?id=9&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cctv8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV9.png" group-title="央视",CCTV9
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EqTu3rtglooDaG_6P7QG0G%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192550%2C%2C%2C20240420192550%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV10.png" group-title="央视",CCTV10
@@ -35,62 +34,66 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?servicetype=
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13.png" group-title="央视",CCTV13
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7FeVpwiXzm8Z1FT0IzXPiAe%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192554%2C%2C%2C20240420192554%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV13备用" tvg-name="CCTV13备用" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13.png" group-title="央视",CCTV13备用
-http://8.138.7.223/api/00migu.php?id=14&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://110.42.63.57:158/live/miguHD.php?id=CCTV13
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV14.png" group-title="央视",CCTV14
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Gjz8eIMyPUF5CKBM1zLuEZ%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192555%2C%2C%2C20240420192555%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV15.png" group-title="央视",CCTV15
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV16.png" group-title="央视",CCTV16
-http://8.138.7.223/api/00yd.php?id=17&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV17.png" group-title="央视",CCTV17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
-http://183.185.66.81:6066/rtp/226.0.2.103:8736
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典
+http://183.191.138.146:8002/rtp/226.0.2.103:8736
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典1
 http://8.138.7.223/api/00yd.php?id=55&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典2
+http://106.53.99.30/tv/hot.php?id=cwjd
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国交通.png" group-title="央视",中国交通
+http://123.114.27.33:4000/rtp/239.3.1.188:8001
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育1.png" group-title="中国教育",中国教育1
-http://8.138.7.223/api/00migu.php?id=89&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
 #EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育2.png" group-title="中国教育",中国教育2
-http://8.138.7.223/api/00migu.php?id=90&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 #EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育3.png" group-title="中国教育",中国教育3
 
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育4.png" group-title="中国教育",中国教育4
-http://8.138.7.223/api/00migu.php?id=91&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN英语.png" group-title="CGTN",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN纪录.png" group-title="CGTN",CGTN纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN西班牙语.png" group-title="CGTN",CGTN西班牙语
-http://8.138.7.223/api/00migu.php?id=22&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cgtne
 #EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN法语.png" group-title="CGTN",CGTN法语
-http://8.138.7.223/api/00migu.php?id=23&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cgtnf
 #EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN阿拉伯语.png" group-title="CGTN",CGTN阿拉伯语
-http://8.138.7.223/api/00migu.php?id=21&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cgtna
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN俄语.png" group-title="CGTN",CGTN俄语
-http://8.138.7.223/api/00migu.php?id=24&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=cgtnr
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京卫视.png" group-title="北京",北京卫视
-http://8.138.7.223/api/10bj.php?id=bjws&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京文艺.png" group-title="北京",北京文艺
-http://8.138.7.223/api/10bj.php?id=bjwy&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
 #EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京纪实科教.png" group-title="北京",北京纪实科教
 http://106.53.99.30/tv/hot.php?id=bjjs
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京影视.png" group-title="北京",北京影视
-http://8.138.7.223/api/10bj.php?id=bjys&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/hot.php?id=bjys
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京财经.png" group-title="北京",北京财经
-http://8.138.7.223/api/10bj.php?id=bjcj&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/hot.php?id=bjcj
 #EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京体育休闲.png" group-title="北京",北京体育休闲
-http://106.53.99.30/tv/hot.php?id=bjty
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京生活.png" group-title="北京",北京生活
-http://8.138.7.223/api/10bj.php?id=bjsh&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/hot.php?id=bjsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京新闻.png" group-title="北京",北京新闻
-http://8.138.7.223/api/10bj.php?id=bjxw&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 #EXTINF:-1,tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京国际.png" group-title="北京",北京国际
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/卡酷少儿.png" group-title="北京",卡酷少儿
-http://8.138.7.223/api/10bj.php?id=bjkk&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/hot.php?id=bjkk
 
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/天津卫视.png" group-title="卫视",天津卫视
 http://8.138.7.223/api/00yd.php?id=38&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
@@ -114,10 +117,10 @@ http://106.53.99.30/tv/hot.php?id=ymdy
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://106.53.99.30/tv/hot.php?id=dzdy
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/发现之旅.png" group-title="中央娱乐",发现之旅
-http://106.53.99.30/tv/hot.php?id=fxzl
+http://106.53.99.30/tv/migu.php?id=fxzl
 #EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/老故事.png" group-title="中央娱乐",老故事
-http://106.53.99.30/tv/hot.php?id=lgs
+http://106.53.99.30/tv/migu.php?id=lgs
 #EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中学生.png" group-title="中央娱乐",中学生
-http://106.53.99.30/tv/hot.php?id=zxs
+http://106.53.99.30/tv/migu.php?id=zxs
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/四海钓鱼.png" group-title="娱乐",四海钓鱼
-http://8.138.7.223/api/00migu.php?id=31&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
+http://106.53.99.30/tv/migu.php?id=shdy
