@@ -44,7 +44,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV17.png" group-title="央视",CCTV17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
-http://183.191.138.146:8002/rtp/226.0.2.103:8736
+http://171.125.217.179:90/rtp/226.0.2.103:8736
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典
 http://8.138.7.223/api/00yd.php?id=55&token=3b3ef8c29d5158e7b6a168a338bbd86a5a0c9a68f49df98a2e62d4d9a06f05bc
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典
