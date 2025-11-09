@@ -43,9 +43,9 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV17.png" group-title="央视",CCTV17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4K.png" group-title="央视",CCTV4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4K.png" group-title="央视",CCTV4K
 http://110.42.63.57:158/live/ysp.php?id=CCTV4K
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8K.png" group-title="央视",CCTV8K
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8K.png" group-title="央视",CCTV8K
 http://110.42.63.57:158/live/ysp.php?id=CCTV8K
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
 http://113.9.142.77:9003/hls/116/index.m3u8
